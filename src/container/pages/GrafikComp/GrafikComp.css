@@ -1,0 +1,18 @@
+.wrapper-chart-page{
+    padding-left: 20px;
+    border-top: 1px solid rgb(194, 186, 186);
+    position: relative;
+}
+.headline p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.wrapper-select{
+    position: absolute;
+    top: 3%;
+    right: 0;
+}
+.wrapper-select select{
+    padding: 5px;
+    border-radius: 5px;
+}

@@ -1,0 +1,63 @@
+.wrapper-card-ticket{
+    min-height: 300px;
+    height: 250px;
+    overflow-y: scroll;
+}
+.card-ticket{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-top: 15px;
+    background-color: rgb(233, 255, 233);
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 5px;
+}
+.caption-ticket{
+    text-align: end;
+}
+.caption-ticket p{
+    margin: 0;
+    font-size: 13px;
+}
+.caption-ticket strong{
+    border-radius: 3px;
+    padding: 5px;
+    background: #73b9ff;
+    font-size: 13px;
+    font-weight: 500;
+    /* margin-bottom: 5px; */
+    display: inline-block;
+}
+.tanggal-tiket{
+    margin: 5px 0;
+}
+.headline-ticket{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.wrapper-ticket-jourrney{
+    margin-top: 30px;
+}
+.gambar-ticket{
+    display: flex;
+}
+.gambar-ticket img{
+    width: 25px;
+    height: 25px;
+}
+.gambar-ticket p{
+    margin: 0 0 0 15px;
+    font-size: 13px;
+}
+.caption-kartu{
+    position: absolute;
+    top: 45%;
+}
+.caption-kartu strong{
+    font-size: 13px;
+}
+.caption-ticket strong.yellow-open{
+    background-color: yellow;
+}

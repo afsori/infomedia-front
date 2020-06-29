@@ -1,0 +1,173 @@
+{
+    "listName": [
+        {
+            "id": "1",
+            "name": "Muhammad Afsori",
+            "noHandphone": "085267563928",
+            "address": "jl. Ahmad Yani no. 10",
+            "company": "PT. Ako Media Asia",
+            "phone": "83249302",
+            "email": "afsoryafsor@gmail.com",
+            "facebook": "Muhammad Afsori",
+            "twitter": "-",
+            "telegram": "afsori",
+            "instagram": "afsori"
+        },
+        {
+            "id": "2",
+            "name": "M. Afsori",
+            "noHandphone": "30324839232",
+            "address": "jl. Ahmad Yani no. 10",
+            "company": "PT. Ako Media Asia",
+            "phone": "83249302",
+            "email": "afsoryafsor@gmail.com",
+            "facebook": "Muhammad Afsori",
+            "twitter": "-",
+            "telegram": "afsori",
+            "instagram": "afsori"
+        },
+        {
+            "id": "3",
+            "name": "Dhea Amelia",
+            "noHandphone": "0324382989",
+            "address": "jl. Ahmad Yani no. 10",
+            "company": "PT. Ako Media Asia",
+            "phone": "83249302",
+            "email": "DheaAmelia@gmail.com",
+            "facebook": "Dhea Amelia",
+            "twitter": "-",
+            "telegram": "Dhea Amelia",
+            "instagram": "Dhea Amelia"
+        },
+        {
+            "id": "4",
+            "name": "Amelia Putri",
+            "noHandphone": "2432093209",
+            "address": "jl. Ahmad Yani no. 11",
+            "company": "PT. Asia Jaya",
+            "phone": "83249302",
+            "email": "Ameliatri@gmail.com",
+            "facebook": "Amelia Putri",
+            "twitter": "-",
+            "telegram": "Amelia Putri",
+            "instagram": "Amelia Putri"
+        },
+        {
+            "id": "5",
+            "name": "Bayu Ferdi",
+            "noHandphone": "3398473298",
+            "address": "jl. kaliurang no. 10",
+            "company": "PT. Sejahtera",
+            "phone": "83249302",
+            "email": "BayuFerdi@gmail.com",
+            "facebook": "Bayu Ferdi",
+            "twitter": "-",
+            "telegram": "Bayu Ferdi",
+            "instagram": "Bayu Ferdi"
+        },
+        {
+            "id": "6",
+            "name": "Bayu Erfan",
+            "noHandphone": "0348923789",
+            "address": "jl. Selalu jaya",
+            "company": "PT. Makmur sentosa",
+            "phone": "83249302",
+            "email": "BayuErfan@gmail.com",
+            "facebook": "Bayu Erfan",
+            "twitter": "-",
+            "telegram": "Bayu Erfan",
+            "instagram": "Bayu Erfan"
+        },
+        {
+            "id": "7",
+            "name": "Happy Asmara",
+            "noHandphone": "0238427384",
+            "address": "jl. semarang jaya",
+            "company": "PT. ngalur ngidul",
+            "phone": "83249302",
+            "email": "Happysmara@gmail.com",
+            "facebook": "Happy Asmara",
+            "twitter": "-",
+            "telegram": "Happy Asmara",
+            "instagram": "Happy Asmara"
+        },
+        {
+            "id": "8",
+            "name": "Mubad Zahroni",
+            "noHandphone": "0324329893",
+            "address": "jl. sentosa makmur",
+            "company": "PT. Ako Media Asia",
+            "phone": "83249302",
+            "email": "MubadZahroni@gmail.com",
+            "facebook": "Mubad Zahroni",
+            "twitter": "-",
+            "telegram": "Mubad Zahroni",
+            "instagram": "Mubad Zahroni"
+        },
+        {
+            "id": "9",
+            "name": "Dewi Tri Harya",
+            "noHandphone": "08273823233",
+            "address": "jl. datarajan blok 1",
+            "company": "PT. digital wireless",
+            "phone": "83249302",
+            "email": "Dewarya@gmail.com",
+            "facebook": "Dewi Tri Harya",
+            "twitter": "-",
+            "telegram": "Dewi Tri Harya",
+            "instagram": "Dewi Tri Harya"
+        }
+    ],
+    "detailName": [
+        {
+            "id": "1",
+            "address": "jl. Ahmad Yani no. 10",
+            "company": "PT. Ako Media Asia",
+            "noHand": "0934923889",
+            "phone": "83249302",
+            "email": "afsoryafsor@gmail.com",
+            "facebook": "Muhammad Afsori",
+            "twitter": "-",
+            "telegram": "afsori",
+            "instagram": "afsori"
+        }
+    ],
+    "ticketJourney": [
+        {
+            "_id": "1",
+            "noHp": "093247392487",
+            "name": "Nur Syahri",
+            "statusCard": "Kartu Hilang",
+            "progress": "onProgress",
+            "date": "30 November 2019",
+            "time": "10:10:09"
+        },
+        {
+            "_id": "2",
+            "noHp": "03938392487",
+            "name": "Nur Ahmad",
+            "statusCard": "Kartu Hilang",
+            "progress": "On Progress",
+            "date": "20 April 2019",
+            "time": "07:10:09"
+        },
+        {
+            "_id": "3",
+            "noHp": "0933232487",
+            "name": "Ahmad Nur",
+            "statusCard": "Kartu Hilang",
+            "progress": "onProgress",
+            "date": "31 Mei 2019",
+            "time": "03:10:03"
+        },
+        {
+            "_id": "4",
+            "noHp": "0378432487",
+            "name": "Cahaya Hati",
+            "statusCard": "Kartu Hilang",
+            "progress": "onProgress",
+            "date": "30 Mei 2019",
+            "time": "10:10:09"
+        }
+    ]
+}

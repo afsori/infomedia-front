@@ -1,0 +1,166 @@
+.headline-detail-page img{
+    width: 30px;
+}
+.wrapper-detail-page{
+    padding: 20px;
+    border: 1px solid rgb(194, 186, 186);
+    border-bottom: none;
+    border-left: none;
+}
+.headline-detail-page{
+    text-align: center;
+}
+.headline-detail-page span{
+    display: flex;
+    justify-content: flex-end;
+}
+.headline-detail-page span img{
+    width: 20px;
+    margin-bottom: -18px;
+}
+.name-detail{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0 60px 20px;
+}
+.button-email{
+    padding: 5px 20px;
+    margin-right: 10px;
+    background: green;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.button-sms{
+    padding: 5px 25px;
+    background: green;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.list-info-detail p{
+    font-weight: 500;
+    margin: 20px 0 10px;
+    font-size: 15px;
+}
+.list-info-detail div:nth-child(even){
+    background-color: rgb(233, 255, 233);
+} 
+.list-info-detail div p:nth-child(odd){
+    color: #b6abab;
+    width: 100px;
+}
+.list-info-detail div p:nth-child(even){
+    margin-left: 20px;
+}
+.address{
+    display: flex;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.address p{
+    margin: 0;
+    font-size: 15px;
+}
+.company{
+    display: flex;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.company p{
+    margin: 0;
+    font-size: 15px;
+}
+.hp{
+    display: flex;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.hp p{
+    margin: 0;
+    font-size: 15px;
+}
+.phone{
+    display: flex;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.phone p{
+    margin: 0;
+    font-size: 15px;
+}
+.email{
+    display: flex;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.email p{
+    margin: 0;
+    font-size: 15px;
+}
+.facebook{
+    display: flex;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.facebook p{
+    margin: 0;
+    font-size: 15px;
+}
+.twitter{
+    display: flex;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.twitter p{
+    margin: 0;
+    font-size: 15px;
+}
+.telegram{
+    display: flex;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.telegram p{
+    margin: 0;
+    font-size: 15px;
+}
+.instagram{
+    display: flex;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+.instagram p{
+    margin: 0;
+    font-size: 15px;
+}
+.total-cwc{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 30px;
+}
+.total-awal{
+    text-align: center;
+}
+.headline-cwc{
+    margin: 0 0 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.caption-wcw{
+margin: 0;
+font-weight: 500;
+}
+.line-vertical{
+    width: 1px;
+    background-color: #707070;
+    height: 45px;
+    margin: 0 25px;
+}
+.total-akhir{
+    text-align: center;
+}

@@ -1,0 +1,50 @@
+.wrapper-listname{
+    /* width: 20%; */
+    border: 1px solid rgb(194, 186, 186);
+    border-bottom: 0;
+}
+.input-name{
+    position: relative;
+    padding: 15px;
+    border-bottom: 1px solid rgb(194, 186, 186);
+    
+}
+.input-name img{
+    position: absolute;
+    width: 20px;
+}
+.input-name input{
+    border: 0;
+    outline: none;
+    margin-left: 25px;
+    }
+.list-name{
+    padding: 0 20px;
+    cursor: pointer;
+}
+.list-name:active{
+    background-color: rgb(111, 235, 235);
+}
+.list-name:hover{
+    background-color: rgb(111, 235, 235);
+}
+.img-avatar{
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+.img-avatar img{
+    width: 40px;
+}
+.description-name{
+    margin-left: 15px;
+}
+.name-user{
+    margin: 0;
+    font-weight: 500;
+    font-size: 15px;
+}
+.no-telf{
+    margin: 0;
+    font-size: 13px;
+}

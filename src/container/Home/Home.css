@@ -1,0 +1,14 @@
+.wrapper-home{
+    display: flex;
+    margin: 0 80px;
+}
+.List-name{
+    width: 48%;
+    display: flex;
+}
+.detail-list-name{
+    width: 30%;
+}
+.grafik-komponen{
+    width: 50%;
+}

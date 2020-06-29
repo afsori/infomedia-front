@@ -1,0 +1,12 @@
+.canvasjs-chart-toolbar button{
+    display: none !important;
+}
+.canvasjs-chart-credit{
+    display: none;
+}
+#canvasjs-react-chart-container-1{
+    height: 300px !important;
+}
+.canvasjs-chart-canvas{
+    height: 300px;
+}
